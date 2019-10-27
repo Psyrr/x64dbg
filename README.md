@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/x64dbg) [![Discord](https://img.shields.io/badge/chat-on%20Discord-green.svg)](https://invite.gg/x64dbg) [![Slack](https://img.shields.io/badge/chat-on%20Slack-red.svg)](https://x64dbg-slack.herokuapp.com) [![Gitter](https://img.shields.io/badge/chat-on%20Gitter-lightseagreen.svg)](https://gitter.im/x64dbg/x64dbg) [![Freenode](https://img.shields.io/badge/chat-%20on%20freenode-brightgreen.svg)](https://webchat.freenode.net/?channels=x64dbg) [![Matrix](https://img.shields.io/badge/chat-on%20Matrix-yellowgreen.svg)](https://riot.im/app/#/room/#x64dbg:matrix.org) [![XMPP](https://img.shields.io/badge/chat-%20on%20XMPP-orange.svg)](https://inverse.chat/#converse/room?jid=x64dbg@conference.jwchat.org)
 
-An open-source binary debugger for Windows, aimed at malware analysis and reverse engineering of executables you do not have the source code for. There are many features available and a comprehensive [plugin system](http://plugins.x64dbg.com) to add your own. You can find more information on the [blog](https://x64dbg.com/blog)!
+x64dbg is an open-source binary debugger built for Windows which is aimed at malware analysis and reverse engineering of executables which the user doesnt not own the source code for. There are many features available and a comprehensive [plugin system](http://plugins.x64dbg.com) to add your own which will allow you to add your own. You can find more information on the [blog](https://x64dbg.com/blog)!
 
 ## Screenshots
 
